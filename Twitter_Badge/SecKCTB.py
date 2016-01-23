@@ -31,7 +31,7 @@ from twython import TwythonStreamer
 # Search terms - This should never change from #SecKC and if it does you are BANNED!
 TERMS = '#SecKC'
 
-# Twitter developer 
+
 # https://apps.twitter.com & https://dev.twitter.com
 APP_KEY = '<YOUR CONSUMER KEY>'
 APP_SECRET = '<YOUR CONSUMER SECRET>'
@@ -42,7 +42,7 @@ OAUTH_TOKEN_SECRET = '<YOUR ACCESS TOKEN SECRET>'
 # Set the number of cascaded matrix's to the number of 7219 8x8 panels you have. 
 #Im using this shield: http://www.waveshare.com/rpi-led-matrix.htm
 device = led.matrix(cascaded=2)
-# This defines the speed that the orientation will set.
+
 time.sleep(.2)
 #Required to set oritation correctly
 device.show_message(" ")
