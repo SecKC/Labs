@@ -1,12 +1,10 @@
-![SecKC](https://raw.githubusercontent.com/SecKC/seckc.github.io/master/images/logo/SecKC_Hex_OnlyB_small.png "SecKC")
-
 [![Badge Jiff](https://raw.githubusercontent.com/SecKC/seckc.github.io/master/images/badges/SecKC_Twitter_Badge.gif)](https://youtu.be/bD3Shz_lzPA)
 
 
 
 SecKC Twitter Badge
 ========================
-
+![SecKC](https://raw.githubusercontent.com/SecKC/seckc.github.io/master/images/logo/SecKC_Hex_OnlyB_small.png "SecKC")
 ## Requirements ##
 * Raspberry Pi (Any Model)
 * https://github.com/rm-hull/max7219
