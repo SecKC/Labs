@@ -1,4 +1,7 @@
-![SecKC](https://raw.githubusercontent.com/SecKC/seckc.github.io/master/images/logo/SecKC_Hex_OnlyB.png "SecKC")
+![SecKC](https://raw.githubusercontent.com/SecKC/seckc.github.io/master/images/logo/SecKC_Hex_OnlyB_small.png "SecKC")
+[![Badge](https://i.giphy.com/Dc7bwK7pNGca4.gif)](https://youtu.be/bD3Shz_lzPA)
+
+
 
 SecKC Twitter Badge
 ========================
