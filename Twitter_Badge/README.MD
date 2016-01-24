@@ -15,7 +15,9 @@ SecKC Twitter Badge
 * Read https://dev.twitter.com/faq section on API
 
 ### How to use ###
-* git clone https://github.com/SecKC/Labs.git
+```
+ git clone https://github.com/SecKC/Labs.git
+```
 * Add your Twitter authorization APP_KEY, APP_SECRET, OAUTH_TOKEN, OAUTH_TOKEN_SECRET to SecKCTB.py
 * Ban someone
 * Execute script via CLI instructions below
