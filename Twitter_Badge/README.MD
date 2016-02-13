@@ -8,7 +8,7 @@ SecKC Twitter Badge
 ## Requirements ##
 ### Hardware ###
 * Raspberry Pi (Any Model)
-* http://www.waveshare.com/rpi-led-matrix.htm <-- (2)8x8 7219 LED matrcies for a total of 8 x 16 in a shield for the pi.
+* http://www.waveshare.com/rpi-led-matrix.htm <-- (2)8x8 7219 LED matrcies for a total of 8 x 16 in a shield for the pi. (http://www.waveshare.com/media/catalog/product/cache/1/thumbnail/122x122/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi-led-matrix-4.jpg)
 
 ### Software ###
 * https://github.com/rm-hull/max7219
