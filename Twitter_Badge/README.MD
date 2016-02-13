@@ -12,7 +12,7 @@ SecKC Twitter Badge
 
 ### Software ###
 * https://github.com/rm-hull/max7219
-* https://github.com/ryanmcgrath/twython 
+* 'pip install twython' (more instructions at: https://github.com/ryanmcgrath/twython)
 * Internet connection to monitor twitter for #SecKC
 * SPI interface enabled https://www.raspberrypi.org/documentation/hardware/raspberrypi/spi/README.md or just do it from raspi-config
 * Read https://dev.twitter.com/faq section on API
