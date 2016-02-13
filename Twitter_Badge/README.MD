@@ -6,10 +6,13 @@ SecKC Twitter Badge
 ========================
 ![SecKC](https://raw.githubusercontent.com/SecKC/seckc.github.io/master/images/logo/SecKC_Hex_OnlyB_small.png "SecKC")
 ## Requirements ##
+### Hardware ###
 * Raspberry Pi (Any Model)
+* http://www.waveshare.com/rpi-led-matrix.htm <-- (2)8x8 7219 LED matrcies for a total of 8 x 16 in a shield for the pi.
+
+### Software ###
 * https://github.com/rm-hull/max7219
 * https://github.com/ryanmcgrath/twython 
-* http://www.waveshare.com/rpi-led-matrix.htm <-- (2)8x8 7219 LED matrcies for a total of 8 x 16 in a shield for the pi.
 * Internet connection to monitor twitter for #SecKC
 * SPI interface enabled https://www.raspberrypi.org/documentation/hardware/raspberrypi/spi/README.md or just do it from raspi-config
 * Read https://dev.twitter.com/faq section on API
